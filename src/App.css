@@ -1,0 +1,83 @@
+.App {
+  background-image: url(images/Animated-Napoleon-Dynamite-title-sequence.jpg);  
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  height: 100vh;  
+  width: 100vw; 
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+sectionStyle{
+    height: 100%; 
+    width: 100%; 
+}
+
+.head{
+    font-family: papyrus; 
+    font-size: 100pt; 
+    color: greenyellow; 
+    text-align: center;
+}
+
+.boxone{
+    height: 400px; 
+    width: 400px; 
+    border-radius: 50%; 
+    background-color: red; 
+    background-image: url(images/Kip_Dynamite.jpg);
+    position: absolute; 
+    top: 530px; 
+    right: 0; 
+    bottom: 0; 
+    left: 0; 
+    margin: auto; 
+}
+
+.textone{
+    color: white; 
+    position: absolute; 
+    top: 440px; 
+    right: 0; 
+    bottom: 0; 
+    left: 0; 
+    margin: auto; 
+    text-align: center; 
+}
+    
+.headone{
+    font-family: papyrus; 
+    font-size: 20pt; 
+    color: greenyellow; 
+    text-align: center;
+}
+
+.boxtwo{
+    height: 400px; 
+    width: 400px; 
+    border-radius: 50%; 
+    background-color: red; 
+    background-image: url(images/nd.jpg); 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    bottom: 600px; 
+    left: 0; 
+    margin: auto; 
+}
+
+.texttwo{
+    color: white; 
+    position: absolute; 
+    top: 440px; 
+    right: 0; 
+    bottom: 0; 
+    left: 0; 
+    margin: auto; 
+    text-align: center; 
+}
