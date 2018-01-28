@@ -62,7 +62,7 @@ sectionStyle{
     width: 400px; 
     border-radius: 50%; 
     background-color: red; 
-    background-image: url(images/chris.png)
+    background-image: url(images/chris.png); 
     position: absolute; 
     top: 0; 
     right: 0; 
