@@ -8,12 +8,12 @@ class App extends Component {
             <header className="head">Who we are</header>
                 <div className="boxone">
                     <p className="textone">
-                    Dennis Pierre – Napoleon, don’t be jealous that I’ve been chatting online with babes all day. Besides, we both know that I’m training to be a cage fighter.
+                    Dennis Pierre – Dennis Pierre – Bears, Beats, Battlestart Gilactica. Grandmas boy and film lover, great taste in music. Came to bcit because he got rejected from harvard on numourous occasians. Now he wants to take over the world with his sick mix-tapes. 
                     </p>
                 </div>
                 <div className="boxtwo">
                     <p className="texttwo">
-                    Christen Mangibin – An apple a day keeps anyone away, if you throw hard enough.
+                    Christen Mangibin – Person who likes to draw and likes to film and likes to listen to music and loves his friends very much.
                     </p>
                 </div>
         </div>
